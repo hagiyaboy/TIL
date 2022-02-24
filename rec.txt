@@ -1,22 +1,33 @@
 【Today I Learned】
 
 ■HTML
-
+・data-属性プロパティ
 
 ■CSS
-
+・flexboxの復習
+・画像の下の余白はbertical-align:bottomで消すことができる
 
 ■ECMAScript
 ・『JavaScript「超」入門』
-　∟5-03_プライバシーポリシー承認パネルを作る　クッキーの読み・書き・削除
+　∟5-04_イメージの切り替え　querySelectorAllメソッド　forEachメソッド　data-属性プロパティの利用
+　∟5-05_スライドショー　DOM操作　画像のプリロード(正直まだよくわからないがとばす)
+　∟6-01_jQueryの利用　jQueryのダウンロード　jQueryオブジェクト(メソッドとプロパティを持つ)　トラバーサル
 
 ■その他
 
 
-■ToDo
+【ToDo】
+■sbf
 ・NSK様　BGM候補出し　セリフまとめ　撮影スケ作成
 ・OMY様　アルバム候補出し
-・BAK整理
-・SBFサイト案作成
-・619　過去動画まとめ
-・iphone7　BAK取得
+・HDD整理
+・サイト案作成
+
+■Web
+・git：github上で確認できないファイルがpullで書き換えられている？（studyECMAScript/book-js/_templete/index.html）
+・git：hpでgitの連携(作成・変更・削除分の色が緑になる機能)が使えていないので調査
+
+■lifestyle
+・除草剤散布
+・619ムービー作成
+・iphone7　BAK作成(残：MOV,MP4,クラウドストレージ内)
