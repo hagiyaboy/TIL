@@ -1,20 +1,19 @@
 【Today I Learned】
 
 ■HTML
-・data-属性プロパティ
 
 ■CSS
-・flexboxの復習
-・画像の下の余白はbertical-align:bottomで消すことができる
+・transformプロパティ　transitionと相性〇
 
 ■ECMAScript
 ・『JavaScript「超」入門』
-　∟5-04_イメージの切り替え　querySelectorAllメソッド　forEachメソッド　data-属性プロパティの利用
-　∟5-05_スライドショー　DOM操作　画像のプリロード(正直まだよくわからないがとばす)
-　∟6-01_jQueryの利用　jQueryのダウンロード　jQueryオブジェクト(メソッドとプロパティを持つ)　トラバーサル
+　∟6-02_drawer　
+　∟6-03_ajax
+　∟7-01_geolocation
+　∟7-02_API
 
 ■その他
-
+・jQueryのメソッド
 
 【ToDo】
 ■sbf
@@ -22,10 +21,13 @@
 ・OMY様　アルバム候補出し
 ・HDD整理
 ・サイト案作成
+・サタデーライフタスク
 
 ■Web
 ・git：github上で確認できないファイルがpullで書き換えられている？（studyECMAScript/book-js/_templete/index.html）
 ・git：hpでgitの連携(作成・変更・削除分の色が緑になる機能)が使えていないので調査
+・ポートフォリオ：bj（テキスト完了後開始）
+・http → https 方法調査
 
 ■lifestyle
 ・除草剤散布
