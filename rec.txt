@@ -5,6 +5,9 @@
 ■CSS
 
 ■ECMAScript
+・O'REILLY 初めてのJacaScript
+　∟2章　導入　jQueryやPaper.jsの使用例を確認（詳細は別の章）
+　∟3章　変数、定数、リテラル、データ型
 
 ■その他
 
@@ -12,18 +15,15 @@
 【ToDo】
 ■sbf
 ・NSK様　BGM候補出し　セリフまとめ　撮影スケ作成
-・OMY様　アルバム候補出し
+・OMY様　アルバム作成
 ・HDD整理
 ・サタデーライフタスク
 
 ■Web
-・git：github上で確認できないファイルがpullで書き換えられている？（studyECMAScript/book-js/_templete/index.html）
-　→ 単純に別フォルダからコピーしていた様子。下階層のフォルダはgithub上でも別フォルダと確認出来る。
-　→ 削除
 ・git：hpでgitの連携(作成・変更・削除分の色が緑になる機能)が使えていないので調査
 ・ホームページ作成：bj（テキスト完了後開始）
 ・ポートフォリオ作成（lp）
-・http → https 方法調査
+・http → https 方法調査　→　ドメインの設定で簡単に変更可能　→削除
 ・ホームページ作成：SBF（wordpressで作成）
 
 ■lifestyle
