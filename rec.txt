@@ -6,7 +6,6 @@
 
 ■ECMAScript
 ・O'REILLY 初めてのJacaScript
-　∟4章　制御フロー　ループ、分岐について。（Javaと同じだった）
 
 ■その他
 
@@ -14,7 +13,6 @@
 【ToDo】
 ■sbf
 ・NSK様　BGM候補出し　セリフまとめ　撮影スケ作成
-・OMY様　アルバム作成　⇒　完了、削除
 ・HDD整理
 ・サタデーライフタスク　残：productの分量増加のみ
 
@@ -25,6 +23,5 @@
 ・ホームページ作成：SBF（wordpressで作成）
 
 ■lifestyle
-・除草剤散布　⇒　完了、削除
 ・619ムービー作成
 ・iphone7　BAK作成(残：MOV,MP4,クラウドストレージ内)
