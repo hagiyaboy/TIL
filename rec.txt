@@ -1,20 +1,17 @@
 【Today I Learned】
 
-■HTML
-
-■CSS
+■HTML/CSS
+    FontAwesomeのCDN利用
+    レスポンシブ対応
 
 ■ECMAScript
-・O'REILLY 初めてのJacaScript
 
 ■その他
-
+    AdobeXDの操作（BoogieJiggyのデザインカンプを通して）
 
 【ToDo】
 ■sbf
 ・NSK様　BGM候補出し　セリフまとめ　撮影スケ作成
-・HDD整理
-・サタデーライフタスク　残：productの分量増加のみ
 
 ■Web
 ・git：hpでgitの連携(作成・変更・削除分の色が緑になる機能)が使えていないので調査
@@ -23,5 +20,11 @@
 ・ホームページ作成：SBF（wordpressで作成）
 
 ■lifestyle
-・619ムービー作成
+・結婚式用プロフィールムービー作成
+    + BGM選定
+    + 写真選定
+    + 導入部分撮影
+    + どう終わるか
+・結婚式前指輪洗浄預け
+・おこげくんケージ、シェルター購入
 ・iphone7　BAK作成(残：MOV,MP4,クラウドストレージ内)
